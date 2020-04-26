@@ -1,0 +1,3 @@
+time="2020-04-26T15:19:52+03:00" level=info msg="HI this is a line at the end of the program"
+time="2020-04-26T15:21:06+03:00" level=debug msg="Hi i am the first line"
+time="2020-04-26T15:21:06+03:00" level=info msg="HI this is a line at the end of the program"
